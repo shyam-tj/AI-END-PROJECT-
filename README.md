@@ -28,7 +28,13 @@ This project shows environmental data like pH, Dissolved Oxygen, Turbidity, and 
 <h1>Challenges Faced</h1>
 <br>
 Some challenges faced in this project were ensuring the data was accurately represented across different regions and years, and making sure the bar charts were formatted consistently. Choosing the right colors for clear visualization was also a bit tricky. There were also a few issues with aligning the labels properly and debugging minor errors in the code.
-
+<br>
+<h1>team work distribution </h1>
+Shyam-helped collecting data and made an repository in git hub.
+Vishv-helped collecting data and made an readme repository.
+aryen-helped collecting data.
+jay-helped with an visualization folder.
+vrut-helped with an visualization   folder.
 
 
 
