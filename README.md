@@ -12,7 +12,7 @@ Vrut Ghadiya (KU2407U764)  <br>
 
 Python for programming. Googler colab: Pandas: for data manipulation and analysis. Matplotlib: for data visualization. TensorFlow and Keras: for any machine learning models, such as classification of deforested areas.
 
-<h1Data Source(s)</h1>
+<h1>Data Source(s)</h1>
 
 the data for this project primarily comes from publicly available reports and data sets.
 
