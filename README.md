@@ -15,6 +15,7 @@ Python for programming. Googler colab: Pandas: for data manipulation and analysi
 <h1>Data Source(s)</h1>
 
 the data for this project primarily comes from publicly available reports and data sets.
+<a>https://www.kaggle.com/datasets/adityakadiwal/water-potability</a>
 
 <h1>Execution Steps (How to Run the Project)</h1>
 
