@@ -1,7 +1,7 @@
 # AI-END SEM-PROJECT-
 <h1>Water Qulity Analysis</h1>
 <hr>
-<h3>Group Members :</h3> <br>
+<h3>Group Members :</h3> 
 Shyam Togadiya (KU2407U810) <br>
 Aryan Thummar (KU2407U788) <br>
 Vishv Dalsaniya (KU2407U388) <br>
